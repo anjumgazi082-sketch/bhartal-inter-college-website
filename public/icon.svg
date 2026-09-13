@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bgGrad)"/>
+  <circle cx="256" cy="256" r="210" fill="none" stroke="url(#goldGrad)" stroke-width="6" stroke-dasharray="12 6"/>
+  <circle cx="256" cy="256" r="195" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.3"/>
+  <!-- Shield outline -->
+  <path d="M256 100 C340 100 370 140 370 230 C370 330 256 395 256 395 C256 395 142 330 142 230 C142 140 172 100 256 100 Z" fill="#1e293b" stroke="url(#goldGrad)" stroke-width="8"/>
+  <!-- Open Book -->
+  <path d="M190 260 C220 250 245 255 256 265 C267 255 292 250 322 260 C322 310 270 315 256 310 C242 315 190 310 190 260 Z" fill="#ffffff" stroke="url(#goldGrad)" stroke-width="3"/>
+  <path d="M256 265 L256 310" stroke="#1e3a8a" stroke-width="3"/>
+  <!-- Torch of Learning -->
+  <path d="M256 145 L256 225 M248 225 L264 225 M244 190 L268 190" stroke="url(#goldGrad)" stroke-width="6" stroke-linecap="round"/>
+  <!-- Flame -->
+  <path d="M256 125 C268 140 272 155 256 170 C240 155 244 140 256 125 Z" fill="#f59e0b"/>
+  <!-- College Initials -->
+  <text x="256" y="360" font-family="'Cinzel', serif, Georgia" font-size="28" font-weight="700" fill="url(#goldGrad)" text-anchor="middle" letter-spacing="4">BIC</text>
+  <!-- College Name Curve -->
+  <text x="256" y="445" font-family="'Plus Jakarta Sans', sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">BHARTAL INTER COLLEGE</text>
+  <text x="256" y="470" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="500" fill="#94a3b8" text-anchor="middle" letter-spacing="1">SAMBHAL, UTTAR PRADESH</text>
+</svg>

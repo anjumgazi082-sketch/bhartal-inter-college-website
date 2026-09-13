@@ -1,0 +1,6 @@
+{
+  "name": "Bhartal Inter College",
+  "description": "Official website and administration portal for Bhartal Inter College, Hasanpur Road, Bhartal, Sirsi, Sambhal, Uttar Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
